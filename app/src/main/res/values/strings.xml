@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">20190312</string>
+    <string name="question_cj">长江是中国最长的河流？</string>
+    <string name="question_hh">黄河流经西藏？</string>
+    <string name="question_xmlys">喜马拉雅山是世界上最高的山脉？</string>
+    <string name="question_Canberra">Canberra is the captical of Australia.</string>
+    <string name="preview">PREVIEW</string>
+    <string name="next">NEXT</string>
+    <string name="btn_true">TRUE</string>
+    <string name="btn_false">FALSE</string>
+    <string name="display1">恭喜你，答对了！</string>
+    <string name="display2">答错了，下次努力！</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="chect_button">Cheat!</string>
+    <string name="judgement_toast">Chected.</string>
+</resources>
